@@ -1,0 +1,17 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#1D2C4F"/>
+  <g opacity="0.15">
+    <line x1="0" y1="210" x2="1200" y2="210" stroke="#84A4B1" stroke-width="0.5"/>
+    <line x1="0" y1="315" x2="1200" y2="315" stroke="#84A4B1" stroke-width="0.5"/>
+    <line x1="0" y1="420" x2="1200" y2="420" stroke="#84A4B1" stroke-width="0.5"/>
+    <line x1="300" y1="0" x2="300" y2="630" stroke="#84A4B1" stroke-width="0.5"/>
+    <line x1="600" y1="0" x2="600" y2="630" stroke="#84A4B1" stroke-width="0.5"/>
+    <line x1="900" y1="0" x2="900" y2="630" stroke="#84A4B1" stroke-width="0.5"/>
+  </g>
+  <g transform="translate(540 235)">
+    <path d="M0 180V80L60 45L120 80V180H85V115H35V180H0Z" fill="none" stroke="#F3F3F1" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="60" cy="85" r="6" fill="#84A4B1"/>
+  </g>
+  <text x="600" y="500" text-anchor="middle" font-family="IBM Plex Sans Arabic, sans-serif" font-size="72" font-weight="600" fill="#F3F3F1" letter-spacing="0.15em">فنر</text>
+  <text x="600" y="540" text-anchor="middle" font-family="IBM Plex Sans Arabic, sans-serif" font-size="22" font-weight="400" fill="#84A4B1" letter-spacing="0.3em">FNAR</text>
+</svg>
